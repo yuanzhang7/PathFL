@@ -1,0 +1,97 @@
+ClusterSeg_Dataset/cytology/data/1020185_x_25344_y_14592.png
+ClusterSeg_Dataset/cytology/data/IV 437_row_19040_col_57120.png
+ClusterSeg_Dataset/cytology/data/1020123_x_31488_y_6400.png
+ClusterSeg_Dataset/cytology/data/1020123_x_27392_y_14080.png
+ClusterSeg_Dataset/cytology/data/1020123_x_30976_y_5376.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6720_col_29344.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_7840_col_29568.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_11872_col_29568.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_7168_col_41888.png
+ClusterSeg_Dataset/cytology/data/1020123_x_28416_y_7424.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_8512_col_21952.png
+ClusterSeg_Dataset/cytology/data/1020123_x_18688_y_20224.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4928_col_38976.png
+ClusterSeg_Dataset/cytology/data/1020123_x_22272_y_11264.png
+ClusterSeg_Dataset/cytology/data/1020123_x_25600_y_8704.png
+ClusterSeg_Dataset/cytology/data/1020123_x_31232_y_5632.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_8064_col_26880.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26624_y_6912.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_20160_col_19488.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_5152_col_39872.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4928_col_39872.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_10304_col_34272.png
+ClusterSeg_Dataset/cytology/data/III 422_row_17696_col_19712.png
+ClusterSeg_Dataset/cytology/data/1020123_x_29952_y_5376.png
+ClusterSeg_Dataset/cytology/data/VI 411_row_15456_col_30240.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26368_y_9216.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6496_col_25984.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_22848_col_30912.png
+ClusterSeg_Dataset/cytology/data/1020123_x_19968_y_20480.png
+ClusterSeg_Dataset/cytology/data/II 415_row_22624_col_62720.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_9408_col_22848.png
+ClusterSeg_Dataset/cytology/data/1020123_x_30208_y_5120.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4704_col_41216.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6496_col_25312.png
+ClusterSeg_Dataset/cytology/data/1020123_x_28928_y_12288.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_15456_col_10528.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26624_y_5632.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_15456_col_9856.png
+ClusterSeg_Dataset/cytology/data/1020123_x_31488_y_5888.png
+ClusterSeg_Dataset/cytology/data/1020195_x_2560_y_36096.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4704_col_33600.png
+ClusterSeg_Dataset/cytology/data/1020180_x_10240_y_32000.png
+ClusterSeg_Dataset/cytology/data/1020195_x_3584_y_15616.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26112_y_5888.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_21728_col_32928.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6944_col_25312.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26624_y_7424.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_5376_col_18144.png
+ClusterSeg_Dataset/cytology/data/VI 405_row_22624_col_45024.png
+ClusterSeg_Dataset/cytology/data/IV 437_row_21728_col_56448.png
+ClusterSeg_Dataset/cytology/data/VI 406_row_34496_col_9632.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_23520_col_28896.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26368_y_7936.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_5152_col_41888.png
+ClusterSeg_Dataset/cytology/data/IV 437_row_9184_col_51296.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6496_col_28896.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_9632_col_41888.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6272_col_45024.png
+ClusterSeg_Dataset/cytology/data/1020197_x_1024_y_16384.png
+ClusterSeg_Dataset/cytology/data/1020123_x_20736_y_18432.png
+ClusterSeg_Dataset/cytology/data/1020123_x_25856_y_8448.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4704_col_23520.png
+ClusterSeg_Dataset/cytology/data/II 412_row_2912_col_73920.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_16800_col_15456.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_5152_col_41664.png
+ClusterSeg_Dataset/cytology/data/II 412_row_11648_col_78848.png
+ClusterSeg_Dataset/cytology/data/II 415_row_22624_col_49280.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_5600_col_44800.png
+ClusterSeg_Dataset/cytology/data/1020123_x_30976_y_5120.png
+ClusterSeg_Dataset/cytology/data/II 412_row_5824_col_34048.png
+ClusterSeg_Dataset/cytology/data/1020123_x_26624_y_8704.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_11424_col_16800.png
+ClusterSeg_Dataset/cytology/data/1020123_x_30208_y_13568.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_7392_col_35616.png
+ClusterSeg_Dataset/cytology/data/1020180_x_10240_y_31744.png
+ClusterSeg_Dataset/cytology/data/1020123_x_29952_y_14592.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_12768_col_7392.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6944_col_29792.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4256_col_35392.png
+ClusterSeg_Dataset/cytology/data/III 422_row_13216_col_17024.png
+ClusterSeg_Dataset/cytology/data/1020180_x_51968_y_3072.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_17024_col_19712.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_3808_col_46144.png
+ClusterSeg_Dataset/cytology/data/III 422_row_30912_col_64064.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_7840_col_26432.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4928_col_40320.png
+ClusterSeg_Dataset/cytology/data/1020123_x_31744_y_5120.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4704_col_38752.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_7392_col_38752.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_7392_col_33824.png
+ClusterSeg_Dataset/cytology/data/1020123_x_30720_y_2048.png
+ClusterSeg_Dataset/cytology/data/1020123_x_28160_y_17408.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_6496_col_30688.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_5600_col_43904.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_25088_col_18816.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_19040_col_44800.png
+ClusterSeg_Dataset/cytology/data/IV 421_row_4480_col_30240.png
