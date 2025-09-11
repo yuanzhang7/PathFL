@@ -66,7 +66,7 @@ pip install -r requirement.txt
 
 ### 2. Prepare Data
 
-- Prepare your medical images and labels according to the format in `Txt/ClusterSeg_fold_1/`.
+- We use this dataset as an example.  Prepare your medical images and labels according to the format in `Txt/ClusterSeg_fold_1/`.
 - Each center (0, 1, 2) needs its own training and testing image list (`.txt` files).
 
 ### 3. Train the Model **in Parallel** (Examples for Each Center)
@@ -125,8 +125,7 @@ After training, testing will run automatically. Results are saved in the `Result
    - A: Logs are saved in the `Log/` folder, and segmentation results are saved in the `Results/` folder.  
 
 5. **Q: Why are the results slightly different from those reported in the paper?**  
-   - A: To simplify the code, we used a minimal set of transforms across all centers. Depending on the characteristics of your dataset, you can configure different transforms to achieve better results.
-
+   - A: To simplify the code, we applied simple and general transforms across all centers. Depending on your dataset, you can configure different transforms to achieve better results.
 ---
 
 If you have any questions or suggestions, feel free to reach out!
